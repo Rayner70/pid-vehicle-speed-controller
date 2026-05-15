@@ -59,7 +59,7 @@ Ziegler-Nichols Tuned Gains:
   Kd = 0.27
 ```
 
-### Closed-Loop Block Diagram
+### Block Diagram
 
 ![Block Diagram](media/block_diagram.png)
 
