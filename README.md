@@ -61,7 +61,7 @@ Ziegler-Nichols Tuned Gains:
 
 ### Closed-Loop Block Diagram
 
-![Block Diagram](media/block_diagram.png)
+![Block Diagram](pid-vehicle-speed-controller/media/block_diagram.png)
 
 ### Implementation: Euler Integration with Delay Buffer
 
